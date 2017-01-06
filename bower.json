@@ -1,0 +1,14 @@
+{
+  "name": "reactjs",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "slick-carousel": "1.3.15"
+  }
+}
